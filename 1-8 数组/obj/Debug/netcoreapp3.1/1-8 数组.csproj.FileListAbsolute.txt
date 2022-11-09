@@ -1,0 +1,14 @@
+E:\Unity\NikoLua\Hello\1-8 数组\bin\Debug\netcoreapp3.1\1-8 数组.exe
+E:\Unity\NikoLua\Hello\1-8 数组\bin\Debug\netcoreapp3.1\1-8 数组.deps.json
+E:\Unity\NikoLua\Hello\1-8 数组\bin\Debug\netcoreapp3.1\1-8 数组.runtimeconfig.json
+E:\Unity\NikoLua\Hello\1-8 数组\bin\Debug\netcoreapp3.1\1-8 数组.runtimeconfig.dev.json
+E:\Unity\NikoLua\Hello\1-8 数组\bin\Debug\netcoreapp3.1\1-8 数组.dll
+E:\Unity\NikoLua\Hello\1-8 数组\bin\Debug\netcoreapp3.1\1-8 数组.pdb
+E:\Unity\NikoLua\Hello\1-8 数组\obj\Debug\netcoreapp3.1\1-8 数组.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\NikoLua\Hello\1-8 数组\obj\Debug\netcoreapp3.1\1-8 数组.AssemblyInfoInputs.cache
+E:\Unity\NikoLua\Hello\1-8 数组\obj\Debug\netcoreapp3.1\1-8 数组.AssemblyInfo.cs
+E:\Unity\NikoLua\Hello\1-8 数组\obj\Debug\netcoreapp3.1\1-8 数组.csproj.CoreCompileInputs.cache
+E:\Unity\NikoLua\Hello\1-8 数组\obj\Debug\netcoreapp3.1\1-8 数组.dll
+E:\Unity\NikoLua\Hello\1-8 数组\obj\Debug\netcoreapp3.1\1-8 数组.pdb
+E:\Unity\NikoLua\Hello\1-8 数组\obj\Debug\netcoreapp3.1\1-8 数组.genruntimeconfig.cache
+E:\Unity\NikoLua\Hello\1-8 数组\obj\Debug\netcoreapp3.1\1-8 数组.csproj.AssemblyReference.cache
